@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello am from Lokos Fragment</string>
+    <string name="bttn_click_me">Click me</string>
+    <string name="error">cancel</string>
+    <string name="ok">ok</string>
+    <string name="bttn_custom">Cilck to view Customdialog</string>
+    <string name="bttn_alter">Click to view Alertdialog</string>
+</resources>
